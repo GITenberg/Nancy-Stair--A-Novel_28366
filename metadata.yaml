@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33293
 description: Nancy Stair, poetess and student of law, is portrayed by her father as
   a very charming and life-like figure.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28366#Nancy-Stair--A-Novel
 gutenberg_issued: '2009-03-20'
 gutenberg_type: Text
 identifiers:
