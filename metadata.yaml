@@ -1,0 +1,28 @@
+_repo: Nancy-Stair--A-Novel_28366
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lane, Elinor Macartney
+    birthdate: 1864
+    deathdate: 1909
+    gutenberg_agent_id: '33293'
+    url: http://www.gutenberg.org/2009/agents/33293
+description: Nancy Stair, poetess and student of law, is portrayed by her father as
+  a very charming and life-like figure.
+gutenberg_issued: '2009-03-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28366'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Scotland -- Fiction'
+- !lcsh 'Young women -- Fiction'
+title: 'Nancy Stair: A Novel'
+url: http://www.gutenberg.org/ebooks/28366
